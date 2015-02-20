@@ -1,4 +1,5 @@
 {
+  "polvo": true,
   "name": "polvo-text",
   "version": "0.0.0",
   "description": "Text plugin for Polvo",
