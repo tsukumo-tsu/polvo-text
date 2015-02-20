@@ -1,0 +1,28 @@
+{
+  "name": "polvo-text",
+  "version": "0.0.0",
+  "description": "Text plugin for Polvo",
+  "main": "dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsukumo-tsu/polvo-text"
+  },
+  "keywords": [
+    "polvo",
+    "plugin",
+    "build",
+    "system",
+    "tool",
+    "plaintext",
+    "text"
+  ],
+  "author": "tsukumo <tsukumo@tsu.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsukumo-tsu/polvo-text/issues"
+  },
+  "homepage": "https://github.com/tsukumo-tsu/polvo-text"
+}
